@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A famous victorie obtained against the cavaliers in the county of Gloucester: by Sir VVilliam VValler, on Munday last at a town called Padsworth; how there was six score of the cavaliers killed on the place, most of them being gentlemen of quality, and chief commanders in the Kings army; and one of them is supposed to be a younger brother of the Duke of Lenox. With a true description of the manner of the fight, and what forces were on both sides, with many other remarkable passages concerning the same, which would be too long to mention in the title.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85099</idno>
+            <idno type="STC">Wing F387</idno>
+            <idno type="STC">Thomason E90_24</idno>
+            <idno type="STC">ESTC R1488</idno>
+            <idno type="EEBO-CITATION">99859754</idno>
+            <idno type="PROQUEST">99859754</idno>
+            <idno type="VID">111851</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85099)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111851)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E90[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A famous victorie obtained against the cavaliers in the county of Gloucester: by Sir VVilliam VValler, on Munday last at a town called Padsworth; how there was six score of the cavaliers killed on the place, most of them being gentlemen of quality, and chief commanders in the Kings army; and one of them is supposed to be a younger brother of the Duke of Lenox. With a true description of the manner of the fight, and what forces were on both sides, with many other remarkable passages concerning the same, which would be too long to mention in the title.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Feb. 25. Printed for R. Wood,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: the 43 in the imprint date is crossed out; "1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waller, William, --  Sir, 1597?-1668.</term>
+               <term>Gloucestershire (England) --  History, Military --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111851:1"/>
+            <pb facs="tcp:111851:1" rendition="simple:additions"/>
+            <p>A FAMOUS VICTORIE OBTAINED Againſt the Cavaliers in the County of GLOUCESTER: BY Sir VVILLIAM VVALLER, ON Munday laſt at a town called PADSWORTH; how there was ſix ſcore of the Cavaliers killed on the place, moſt of them being Gentlemen of quality, and chief Commanders in the KINGS Army; and one of them is ſuppoſed to be a younger Brother to the Duke of LENOX.</p>
+            <p>WITH A true Deſcription of the manner of the Fight, and what Forces were on both ſides, with many other remarkable Paſſages concerning the ſame, which would be too long to mention in the Title.</p>
+            <p>LONDON, <hi>Feb.</hi> 25. Printed for <hi>R. Wood.</hi> 1643. <add>1642</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111851:2"/>
+            <pb n="1" facs="tcp:111851:2"/>
+            <head>A TRUE RELATION of a great overthrow given to the Ca<g ref="char:EOLhyphen"/>valiers in Glouceſterſhire on Munday laſt by Sir WILLIAM WALLER, at a towne called <hi>Padſworth,</hi> how there were ſix ſcore of the Cavaliers killed on the place, moſt of them being Gentlemen of quality, and chiefe Commanders in the Kings Army.</head>
+            <head type="sub">With a true deſcription of the manner of the fight, and what forces were on both ſides, with many other remarkable Paſſages concerning the ſame.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is not unknown to this Kingdome, that it hath pleaſed God in a wonderfull man<g ref="char:EOLhyphen"/>ner to proſper the endeavours of a wor<g ref="char:EOLhyphen"/>thy Member of the Houſe of Commons (and a Commander under his Excellency the Earl of <hi>Eſſex</hi>) Sir <hi>William Waller,</hi> who when Co<g ref="char:EOLhyphen"/>lonell <hi>Goring</hi> had poſſeſt himſelfe of one of the
+<pb n="2" facs="tcp:111851:3"/>ſtrongeſt Forts in this Kingdome, the town of <hi>Portſ<g ref="char:EOLhyphen"/>mouth,</hi> with all the Ordnance, Armes and Ammuni<g ref="char:EOLhyphen"/>tion therein, the ſaid Sir <hi>William Waller</hi> was the chie<g ref="char:EOLhyphen"/>feſt inſtrument under God to regain that Fort, and to force the ſaid Colonell <hi>Goreing</hi> to yeeld up the town for the King and Parliament after he had betrayed the ſame, and had full poſſeſſion thereof, and that without any loſſe on the Parliaments ſide, which towne hath ever ſince been preſerved in peace and quiet, and is well fortified, and in a good poſture of defence for the King and Parliament.</p>
+            <p>After that it pleaſed God to make the ſaid Sir WILLIAM WALLER the chiefe Agent in taking of Farnham Caſtle, which was alſo poſſeſſed by the Cavaliers, where he took a<g ref="char:EOLhyphen"/>bout ſix ſcore of them, and ſent them up to London, and fortified it for the King and Parliament: and in this place ſince I have begun to ſpeak of thoſe great victories which he hath obtained, I ſhould injure his perſon by concealing a great part of his me<g ref="char:EOLhyphen"/>rits, if I ſhould give a period to my diſcourſe before I relate ſomthing of the buſineſſe at Chicheſter in Suſſex, and his late ſucceſſe in the County of Glouceſter: And in the firſt place, becauſe it was formerly acted and firſt
+<pb n="3" facs="tcp:111851:3"/>mentioned, give me leave to ſpeak a word or two of that great buſineſſe of the taking of Chicheſter; for when the town was betray<g ref="char:EOLhyphen"/>ed to the force and violence of the Cavaliers; and by the treachery of the high Sheriffe of that County, they had not onely the ſtrength of the town, both of Armes, Ammunition and money, but had gotten a ſtrong garriſon into the ſame, and did either turn out of the town all the well-affected perſons in the ſame, or kept them in ſuch awe and ſubjecti<g ref="char:EOLhyphen"/>on, that they durſt not ſtir either on the one ſide, or other, the ſaid Sir WILLIAM WAL<g ref="char:EOLhyphen"/>LER being imployed by the Parliament up<g ref="char:EOLhyphen"/>on that deſigne, with divers other worthy and deſerving Gentlemen, and a conſidera<g ref="char:EOLhyphen"/>ble number of horſe and foot after a ſhort time of ſiege laid againſt the ſaid towne, he quickly forced his entrance, took many of the Gentlemen and Cavaliers which were in the towne priſoners, and ſent them likewiſe up to LONDON, and thereby ſetled the peace of that City, which hath continued to this day. But becauſe I have ſpoken of
+<pb n="4" facs="tcp:111851:4"/>great ſtore of Priſoners which have been taken at too places before mentioned leaſt there ſhould be any miſunderſtanding in this particular it is not imperti<g ref="char:EOLhyphen"/>nent to my preſent diſcourſe to let the courteous Reader know that theſe priſoners are not all ſtill in cuſtody (though ſome of the chiefe of them are) for preſently after they were brought up to <hi>London,</hi> the common ſouldiers were diſcharged, neither were they dragged along to <hi>London</hi> through the dirt, coupled together like doggs, as the priſoners which the Cavaliers took at <hi>Ciceſter</hi> in <hi>Glouceſter-ſhire</hi> were, but they were brought to town in a faire way with<g ref="char:EOLhyphen"/>out any hurt to the meaneſt of them, and within a day or two they were releaſed, and money given to every one of them to carry him into his own Countrey, and during the time of their impriſonment they were not denied any thing that was fit and neceſſary for their preſent ſubſiſtance, every common Tro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>per that upon any cauſe hath been committed to cuſtody by the Parliament (though he were of the Kings Army) is allowed five pence <hi>per diem:</hi> it were to be wiſhed that the like care were taken for thoſe that were of the Parliaments ſide which have been taken periſoners and carryed to <hi>Oxford,</hi> where (as it is very credibly informed, being Captains and other officers) they are allowed but five farthings a day, and a prohibition that no other reliefe ſhould be brought to them, or any friend viſit them (which is not parctiſed at <hi>London</hi>) and ſometimes they are one day or two without that petty allowance too.</p>
+            <p>But to returne to my intended purpoſe, which is to
+<pb n="5" facs="tcp:111851:4"/>declare to the people (both for the glory of God and the greater honor of this noble gentleman) the good and happie ſucceſſe of that valiant ſouldier, and worthy inſtrument of the common wealth and whole Kingdome, Sir <hi>William Waller,</hi> who hath great ex<g ref="char:EOLhyphen"/>perience and knowledge in military affaires, and ac<g ref="char:EOLhyphen"/>compainted with good ſucceſſe, upon information of the Cavaliers being entred <hi>Glouceſterſhire,</hi> and tak<g ref="char:EOLhyphen"/>ing the town of <hi>Ciceſter,</hi> he was deſigned to goe with ſome conſiderable forces into that County to relieve them againſt the oppreſſion of that unwelcome Army which was gotten in upon them: And becauſe of the preſent neceſſity that County was in and the great expectation they had of his comming thither he haſt<g ref="char:EOLhyphen"/>ed that expectation and march that way with a ſame leſſe ſtrength then otherwiſe he would have had with him, for 4. peeces of Ordinance which he ſhould have carryed down into that County as it is informed, and many of the forces which were deſigned for that ſer<g ref="char:EOLhyphen"/>vice are as yet no further then <hi>Gilford</hi> or <hi>Farnham,</hi> yet it is reported and as a truth that the ſaid Sir <hi>William Waller,</hi> being marched with ſome ſmall force into <hi>Glouceſterſhire</hi> to a little town called <hi>Padſworth,</hi> having not one ful Regiment, was about Munday laſt aſſulted by the Kings forces, there being at leaſt ſixteen hun<g ref="char:EOLhyphen"/>dred of them, which being diſcovered by Sir <hi>William Wallers</hi> ſcouts, he preſently prepared for their com<g ref="char:EOLhyphen"/>ing, and finding himſelf very much too weake for to encounter with the enemy upon an ordinary manner of fighting, he cauſed all his men to ſtand in battalia, and diſcharge upon the enemy at once, upon the word
+<pb n="6" facs="tcp:111851:5"/>given, which being done, at the firſt onſet of the enemy there was about 80. of them ſlayn, which ſlaughter on a ſuddaine put them in ſuch a fright, that they preſently retreated back, and before they could be brought up again Sir <hi>Willirm Wallers</hi> men had charged the ſecond time, and gave them the ſame en<g ref="char:EOLhyphen"/>tertainment as they had before, killing 40. more of them, and forced them to another retreat, after which they ſent for a parley, but the night approaching there could be no more done that day, and in the night the enemy fled to his owne Quarters (as they ſay neer un-<hi>Glouceſter</hi>) and it is no doubt but in a ſhort time that County will be ſettled in peace, notwithſtanding the great diſtractions which are now amongſt them by means of the Cavaliers.</p>
+            <p>It is alſo informed that moſt of thoſe forces which at this time came againſt the ſaid Sir <hi>William,</hi> were gentlemen, and prime Commanders, and that they fled away as aforeſaid, leaving their dead Corpes behind them, one whereof is reported to be a younger bro<g ref="char:EOLhyphen"/>ther to the Duke of <hi>Lenox,</hi> his ſecond brother the L. <hi>Aubery</hi> being killed at the battell in Keynton field.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
